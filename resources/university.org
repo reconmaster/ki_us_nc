@@ -16,6 +16,7 @@ so that the quality of this code base can improve.
 Here are some potential institutions and their departments that could
 have the skills and knowledge needed to really optimize this code.
 
+* [[https://www.appstate.edu/][Appalachian State University]]
 * [[https://duke.edu/][Duke University]]
 ** [[https://math.duke.edu/][Department of Mathematics]]
 ** [[https://philosophy.duke.edu/][Department of Philosophy]]
@@ -23,6 +24,9 @@ have the skills and knowledge needed to really optimize this code.
 ** [[https://www.cs.duke.edu/][Duke Computer Science]]
 ** [[https://english.duke.edu/][Duke English Department]]
 ** [[https://polisci.duke.edu/][Duke University Political Science]]
+* [[https://www.ncsu.edu/][NC State University]]
+* [[https://www.unca.edu/][UNC Asheville]]
+* [[https://www.uncc.edu/][UNC Charlotte]]
 * [[https://www.unc.edu/][The University of North Carolina at Chapel Hill]]
 ** [[https://cs.unc.edu/][Department of Computer Science]]
 ** [[https://philosophy.unc.edu/][Department of Philosophy]]
@@ -30,3 +34,4 @@ have the skills and knowledge needed to really optimize this code.
 ** [[https://politicalscience.unc.edu/][Department of Political Science]]
 ** [[https://englishcomplit.unc.edu/][UNC English & Comparative Literature]]
 ** [[https://law.unc.edu/][UNC School of Law]]
+* [[https://www.uncg.edu/][UNC Greensboro]]
